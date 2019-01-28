@@ -1,4 +1,4 @@
-# R has been used to identify individuals who falls below poverty line in Kenya.
+# R has been used to identify individuals who falls below poverty line in rural areas of two counties
 The dummy data is derived from individuals living in rural areas.
 
 Poverty line in rural areas is Ksh 3252 per month (USD32.52)
