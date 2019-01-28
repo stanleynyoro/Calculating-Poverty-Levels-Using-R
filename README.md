@@ -10,10 +10,10 @@ Based on the data received e.g. from a household survey:
 
 Identifying the poverty status of a country is essential. A typical scenario is where the country may be recording growth in GDP but a large population of the country is living in absolute/ extreme poverty.Thus the proportion of those living below poverty line is an integral indicator.
 
-The indicator can be used by organization in identifying the target beneficiaries of a program- they can incorporate the indicator during design.
+The indicator can be used by organization in identifying the target beneficiaries of a program- they can incorporate the indicator during program design.
 
 Companies can use the indicator to identify potential market size and the pricing strategies.
 For a small survey, it is advisable to use the Probability Poverty Index (PPI) to identify the likelihood of an individual/household falling below poverty line.
 PPI is simple as it include 10 questions whose answers are given a score.
 
-The computed values for monthly consumption have not been weighted/adjusted due to inflation.
+The computed values for monthly consumption have not been weighted or adjusted due to inflation.
