@@ -3,7 +3,7 @@ library(gmodels)
 library(dplyr)
 library(ggplot2)
 
-setwd("D:\\Stanley Masters Materials\\R_Packages\\Other relevant files")
+setwd("D:\\Stanley\\myfiles")
 mydata<-read.csv("Data.csv",header=TRUE)
 attach(mydata)
 
