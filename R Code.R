@@ -17,7 +17,8 @@ attach(mydata)
 # 20-59   0.9     1.0
 # >59     0.7     0.9
 mydata=rename(mydata,hhhead_gender=hh_gender,hhhead_age=hh_age)
-###Equivalance fo household head
+
+###Equivalance for household head
 mydata<-mutate(mydata,equiv1=ifelse(hhhead_gender=="Male" & hhhead_age<=1,0.3,
                              ifelse(hhhead_gender=="Male" & hhhead_age>1 & hhhead_age<=6,0.5,
                              ifelse(hhhead_gender=="Male" & hhhead_age>6 & hhhead_age<=13,0.7,
@@ -30,7 +31,7 @@ mydata<-mutate(mydata,equiv1=ifelse(hhhead_gender=="Male" & hhhead_age<=1,0.3,
                              ifelse(hhhead_gender=="Female" & hhhead_age>13 & hhhead_age<=19,0.9,
                              ifelse(hhhead_gender=="Female" & hhhead_age>19 & hhhead_age<=59,0.9,
                              ifelse(hhhead_gender=="Female" & hhhead_age>59,0.7," ")))))))))))))
-##Equivalence sfor spouse
+##Equivalence for spouse
 mydata<-mutate(mydata,equiv2=ifelse(spouse_gender=="Male" & spouse_age<=1,0.3,
                              ifelse(spouse_gender=="Male" & spouse_age>1 & spouse_age<=6,0.5,
                              ifelse(spouse_gender=="Male" & spouse_age>6 & spouse_age<=13,0.7,
@@ -45,7 +46,7 @@ mydata<-mutate(mydata,equiv2=ifelse(spouse_gender=="Male" & spouse_age<=1,0.3,
                              ifelse(spouse_gender=="Female" & spouse_age>59,0.7," ")))))))))))))
 
 
-#Equivalence for the child 1
+#Equivalence for child 1
 mydata<-mutate(mydata,equiv3=ifelse(child1_gender=="Male" & child1_age<=1,0.3,
                              ifelse(child1_gender=="Male" & child1_age>1 & child1_age<=6,0.5,
                              ifelse(child1_gender=="Male" & child1_age>6 & child1_age<=13,0.7,
