@@ -9,7 +9,7 @@ To identify the poverty status of an area, conduct a household survey and:
 - Divide the total household expenditure with the adult equivalence to get individual consumption
 - Aggregate and get proportion you need e.g. per county, or overall.
 
-Identifying the poverty status of a country is essential. A typical scenario is where the country may be recording growth in GDP but a large population of the country is living in absolute/ extreme poverty.Thus the proportion of those living below poverty line is an integral indicator.
+Identifying the poverty status of a country is essential. A typical scenario is where the country may be recording growth in GDP but a large population of the country is living in absolute/ extreme poverty- and thus not enjoying the growth. These people have limited ability in accessing basic things.
 
 The indicator can be used by organization in identifying the target beneficiaries of a program- they can incorporate the indicator during program design.
 
