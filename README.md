@@ -1,8 +1,9 @@
 # R has been used to come up with the proportion of individuals living under poverty line in two rural counties in Kenya
 The dummy data is derived from individuals living in rural areas.
 
-Poverty line in rural areas is Ksh 3252 per month (USD32.52)
-Based on the data received e.g. from a household survey:
+According to KNBS, Poverty line in rural areas is Ksh 3252 per month (USD32.52) per person.
+
+To identify the poverty status of an area, conduct a household survey and:
 - Get the total household monthly expenditure on food and non-food items
 - Calculate total adult equivalence- Each individual in the household has an adult equivalence based on age and gender
 - Divide the total household expenditure with the adult equivalence to get individual consumption
