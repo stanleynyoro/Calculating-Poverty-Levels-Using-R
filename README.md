@@ -3,15 +3,15 @@ The dummy data is derived from individuals living in rural areas of Kenya.
 
 According to KNBS, the poverty line in rural areas of Kenya is Ksh 3252/month per person (USD32.52).
 
-To identify the poverty status of an area, a household survey is conducted. You need to:
+To identify the poverty status of an area you need to conduct a household survey is. This will help you to:
 - Get the total household monthly expenditure on food and non-food items
 - Calculate total adult equivalence- Each individual in the household has an adult equivalence based on age and gender
 - Divide the total household expenditure with the adult equivalence to get individual consumption
 - Aggregate and get proportion you need e.g. per county, or overall.
 
-Identifying the poverty status of a country is essential. A typical scenario is where the country is recording growth in GDP but a large population is living in extreme/absolute poverty and thus not enjoying growth. The people living in absolute povery may be left abandoned if resources are only directed to high performing sectors, or donor funding curtailed when a country moves to the next income level.  
+Identifying the poverty status of a country is essential. A typical scenario is where the country is recording astronomical growth in GDP but a large population still lives in extreme/absolute poverty and thus not enjoying growth. They may be left out when resources are mainly directed to high performing sectors, or when donor funding curtailed when a country is perceived to rise into a middle income country. In this instance, other indicators need to be taken into account such as poverty level, Human Development Index, Gini Index, etc.
 
-Companies can use the indicator to identify potential market size and product differentiation strategies that will tap into the market of those at the bottom of the pyramid. 
+For firms, poverty status can help them in identifying potential market size and product differentiation strategies that will tap into the market of those at the bottom of the pyramid. In addition, future expansion plans can be done if it is expected that a substantive proportion of the population will rise above poverty lines based on the trend.
 
 For a small survey, it is advisable to use the Probability Poverty Index (PPI) to identify the likelihood of an individual/household falling below poverty line.
 PPI is simple as it include 10 questions whose answers are given a score.
