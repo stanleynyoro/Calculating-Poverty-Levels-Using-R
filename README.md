@@ -3,7 +3,7 @@ The dummy data is derived from individuals living in rural areas of Kenya.
 
 According to KNBS, the poverty line in rural areas of Kenya is Ksh 3252/month per person (USD32.52).
 
-To identify the poverty status of an area you need to conduct a household survey is. This will help you to:
+To identify the poverty status of an area you need to conduct a household survey is. After the survey:
 - Get the total household monthly expenditure on food and non-food items
 - Calculate total adult equivalence- Each individual in the household has an adult equivalence based on age and gender
 - Divide the total household expenditure with the adult equivalence to get individual consumption
