@@ -9,7 +9,7 @@ To identify the poverty status of an area you need to conduct a household survey
 - Divide the total household expenditure with the adult equivalence to get individual consumption
 - Aggregate and get proportion you need e.g. per county, or overall.
 
-Identifying the poverty status of a country is essential s it will enable a country understand the population living in absolute or extreme poverty. As a results, measures can be taken as a redistribution of resources by the government to the poor or even targeted programming by NGOs.
+Identifying the poverty status of a country is essential. It will enable the government come up with ways of redistributing resources to the poor whereas for the NGOs, poverty index can be included as an indicator during programme design.
 
 For firms, poverty status can help them in identifying potential market size and product differentiation strategies that will tap into the market of those at the bottom of the pyramid. In addition, future expansion plans can be done if it is expected that a substantive proportion of the population will rise above poverty lines based on the trend.
 
